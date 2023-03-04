@@ -8,8 +8,10 @@
 
 ### Contact Me
 
-Email: {andreyk557@gmail.com}
-LinkedIn: {https://www.linkedin.com/in/andrii-kryliuk-773a03178/ }
+## Email: {andreyk557@gmail.com}
+
+## LinkedIn: {https://www.linkedin.com/in/andrii-kryliuk-773a03178/ }
+
 I'm always open to new opportunities and projects, so feel free to reach out if you have an interesting project or proposal. I'm ready to collaborate with development and design teams to create amazing websites and applications.
 
 ---
