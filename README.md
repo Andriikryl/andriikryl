@@ -2,6 +2,18 @@
 
 ---
 
+### 👨‍💻 About me:
+
+## I'm an experienced front-end developer who loves creating beautiful and functional websites. My tech stack includes HTML, CSS, JavaScript, React, and other technologies that help me create user-friendly and intuitive interfaces.
+
+### Contact Me
+
+Email: {andreyk557@gmail.com}
+LinkedIn: {https://www.linkedin.com/in/andrii-kryliuk-773a03178/ }
+I'm always open to new opportunities and projects, so feel free to reach out if you have an interesting project or proposal. I'm ready to collaborate with development and design teams to create amazing websites and applications.
+
+---
+
 ### 💻 Технологии:
 
 <div>
