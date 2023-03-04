@@ -16,7 +16,7 @@ I'm always open to new opportunities and projects, so feel free to reach out if 
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -28,11 +28,7 @@ I'm always open to new opportunities and projects, so feel free to reach out if 
 
 ---
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/Andriikryl)
-
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
